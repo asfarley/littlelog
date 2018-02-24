@@ -1,0 +1,1 @@
+void LOG(std::string message);
